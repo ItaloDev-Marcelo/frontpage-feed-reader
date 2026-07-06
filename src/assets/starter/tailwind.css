@@ -1,5 +1,6 @@
 @import "tailwindcss";
 @import "./tokens.css";
+@plugin "daisyui";
 
 @theme inline {
   --color-bg-primary: var(--color-bg-primary);
