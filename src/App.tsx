@@ -1,8 +1,9 @@
-
+import './assets/starter/tailwind.css'
+import Navbar from "./components/Navbar/Navbar"
 
 function App() {
   return (
-   <h1>Ola</h1>
+   <Navbar/>
   )
 }
 
