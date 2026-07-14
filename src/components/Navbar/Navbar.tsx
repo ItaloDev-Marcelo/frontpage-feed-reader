@@ -5,7 +5,7 @@ import { FiPlus } from "react-icons/fi";
 
 const Navbar = () => {
   return (
-    <div className='p-5 xl:p-4 flex gap-4 xl:gap-0 justify-center flex-col xl:flex-row items-center xl:justify-between bg-bg-secondary border-b-1 border-border font-sans'>
+    <div className='p-5 xl:py-4 xl:px-8 flex gap-4 xl:gap-0 justify-center flex-col xl:flex-row items-center xl:justify-between bg-bg-secondary border-b-1 border-border font-sans'>
         <div className='flex flex-row items-center justify-between xl:justify-baseline gap-2 w-full xl:w-auto '>
            <div className='flex flex-row gap-2 '>
           <a href='index.html'>
