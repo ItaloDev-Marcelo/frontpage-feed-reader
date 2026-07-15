@@ -3,6 +3,7 @@ import Data from '../../data/sample-feeds.json'
 import Dropdown from '../dropdown/Dropdown'
 import { LiaNewspaper } from "react-icons/lia";
 import { CiBookmark } from "react-icons/ci";
+import { CiCircleCheck } from "react-icons/ci";
 const SideBar = () => {
   const categoriesData = Data.categories
   const [dropOpen,setDropOpen] = useState<number[]>([0,1])
@@ -27,7 +28,7 @@ const SideBar = () => {
   }
 
   return (
-    <div className='bg-bg-secondary border border-border w-68 h-[100vh] py-4 '>
+    <div className='bg-bg-secondary border border-border w-68 h-[100vhd] py-4 '>
         <div className='flex flex-col p-4 gap-y-8 text-gray-500'>
 
           <div className='flex flex-row items-center justify-between px-2'> <div className='flex flex-row '><LiaNewspaper size={25} className='text-gray-500' /> <h2 className='px-4 font-semibold'>All Items</h2></div><p>47</p></div>
@@ -45,6 +46,8 @@ const SideBar = () => {
           ))
         }
         </div>
+           <div className='bg-gray-400 w-[93%] h-[1px] relative left-2 '></div>
+         <p className='flex flex-row items-center my-5 ml-4'><CiCircleCheck size={20} className='text-green-400 mr-4'/> All Feeds healthy</p>
     </div>
   )
 }
