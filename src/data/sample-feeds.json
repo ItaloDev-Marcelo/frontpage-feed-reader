@@ -11,77 +11,88 @@
           "feedUrl": "https://css-tricks.com/feed/",
           "siteUrl": "https://css-tricks.com/",
           "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 181
         },
         {
           "title": "CSS-Tricks",
           "feedUrl": "https://css-tricks.com/feed/",
           "siteUrl": "https://css-tricks.com/",
           "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 200
         },
         {
           "title": "CSS-Tricks",
           "feedUrl": "https://css-tricks.com/feed/",
           "siteUrl": "https://css-tricks.com/",
           "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 100
         },
         {
           "title": "Smashing Magazine",
           "feedUrl": "https://www.smashingmagazine.com/feed/",
           "siteUrl": "https://www.smashingmagazine.com/",
           "description": "For web designers and developers.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 10
         },
         {
           "title": "Smashing Magazine",
           "feedUrl": "https://www.smashingmagazine.com/feed/",
           "siteUrl": "https://www.smashingmagazine.com/",
           "description": "For web designers and developers.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 322
         },
         {
           "title": "Smashing Magazine",
           "feedUrl": "https://www.smashingmagazine.com/feed/",
           "siteUrl": "https://www.smashingmagazine.com/",
           "description": "For web designers and developers.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 20
         },
         {
           "title": "Smashing Magazine",
           "feedUrl": "https://www.smashingmagazine.com/feed/",
           "siteUrl": "https://www.smashingmagazine.com/",
           "description": "For web designers and developers.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 2
         },
         {
           "title": "Josh W. Comeau",
           "feedUrl": "https://www.joshwcomeau.com/rss.xml",
           "siteUrl": "https://www.joshwcomeau.com/",
           "description": "Friendly tutorials for developers.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 5
         },
         {
           "title": "Josh W. Comeau",
           "feedUrl": "https://www.joshwcomeau.com/rss.xml",
           "siteUrl": "https://www.joshwcomeau.com/",
           "description": "Friendly tutorials for developers.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 202
         },
         {
           "title": "Kent C. Dodds",
           "feedUrl": "https://kentcdodds.com/blog/rss.xml",
           "siteUrl": "https://kentcdodds.com/",
           "description": "Helping people make the world a better place through quality software.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 198
         },
         {
           "title": "Kent C. Dodds",
           "feedUrl": "https://kentcdodds.com/blog/rss.xml",
           "siteUrl": "https://kentcdodds.com/",
           "description": "Helping people make the world a better place through quality software.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 169
         },
         {
           "title": "web.dev",
@@ -89,23 +100,26 @@
           "siteUrl": "https://web.dev/",
           "description": "Building a better web, together.",
           "format": "atom",
-          "notes": "Atom format feed"
+          "notes": "Atom format feed",
+          "postTime": 82
         },
-         {
+        {
           "title": "web.dev",
           "feedUrl": "https://web.dev/feed.xml",
           "siteUrl": "https://web.dev/",
           "description": "Building a better web, together.",
           "format": "atom",
-          "notes": "Atom format feed"
+          "notes": "Atom format feed",
+          "postTime": 273
         },
-         {
+        {
           "title": "web.dev",
           "feedUrl": "https://web.dev/feed.xml",
           "siteUrl": "https://web.dev/",
           "description": "Building a better web, together.",
           "format": "atom",
-          "notes": "Atom format feed"
+          "notes": "Atom format feed",
+          "postTime": 279
         }
       ]
     },
@@ -118,7 +132,8 @@
           "siteUrl": "https://sidebar.io/",
           "description": "The five best design links, every day.",
           "format": "atom",
-          "notes": "High frequency — posts daily"
+          "notes": "High frequency — posts daily",
+          "postTime": 160
         },
         {
           "title": "Sidebar.io",
@@ -126,7 +141,8 @@
           "siteUrl": "https://sidebar.io/",
           "description": "The five best design links, every day.",
           "format": "atom",
-          "notes": "High frequency — posts daily"
+          "notes": "High frequency — posts daily",
+          "postTime": 9
         },
         {
           "title": "Sidebar.io",
@@ -134,7 +150,8 @@
           "siteUrl": "https://sidebar.io/",
           "description": "The five best design links, every day.",
           "format": "atom",
-          "notes": "High frequency — posts daily"
+          "notes": "High frequency — posts daily",
+          "postTime": 158
         },
         {
           "title": "Sidebar.io",
@@ -142,7 +159,8 @@
           "siteUrl": "https://sidebar.io/",
           "description": "The five best design links, every day.",
           "format": "atom",
-          "notes": "High frequency — posts daily"
+          "notes": "High frequency — posts daily",
+          "postTime": 326
         },
         {
           "title": "Sidebar.io",
@@ -150,35 +168,40 @@
           "siteUrl": "https://sidebar.io/",
           "description": "The five best design links, every day.",
           "format": "atom",
-          "notes": "High frequency — posts daily"
+          "notes": "High frequency — posts daily",
+          "postTime": 132
         },
         {
           "title": "Nielsen Norman Group",
           "feedUrl": "https://www.nngroup.com/feed/rss/",
           "siteUrl": "https://www.nngroup.com/",
           "description": "Evidence-based user experience research, training, and consulting.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 182
         },
         {
           "title": "Figma Blog",
           "feedUrl": "https://www.figma.com/blog/feed/",
           "siteUrl": "https://www.figma.com/blog/",
           "description": "Stories about how products are designed at Figma and beyond.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 6
         },
         {
           "title": "Nielsen Norman Group",
           "feedUrl": "https://www.nngroup.com/feed/rss/",
           "siteUrl": "https://www.nngroup.com/",
           "description": "Evidence-based user experience research, training, and consulting.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 212
         },
         {
           "title": "Figma Blog",
           "feedUrl": "https://www.figma.com/blog/feed/",
           "siteUrl": "https://www.figma.com/blog/",
           "description": "Stories about how products are designed at Figma and beyond.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 34
         },
         {
           "title": "UX Collective",
@@ -186,7 +209,8 @@
           "siteUrl": "https://uxdesign.cc/",
           "description": "Curated stories on user experience, usability, and product design.",
           "format": "rss2",
-          "notes": "Medium-based feed — may contain Medium-specific markup"
+          "notes": "Medium-based feed — may contain Medium-specific markup",
+          "postTime": 226
         },
         {
           "title": "UX Collective",
@@ -194,7 +218,8 @@
           "siteUrl": "https://uxdesign.cc/",
           "description": "Curated stories on user experience, usability, and product design.",
           "format": "rss2",
-          "notes": "Medium-based feed — may contain Medium-specific markup"
+          "notes": "Medium-based feed — may contain Medium-specific markup",
+          "postTime": 231
         }
       ]
     },
@@ -207,7 +232,8 @@
           "siteUrl": "https://blog.cloudflare.com/",
           "description": "The Cloudflare Blog.",
           "format": "rss2",
-          "notes": "Rich HTML content with images and code blocks"
+          "notes": "Rich HTML content with images and code blocks",
+          "postTime": 3
         },
         {
           "title": "Vercel Blog",
@@ -215,21 +241,24 @@
           "siteUrl": "https://vercel.com/blog",
           "description": "Updates from Vercel.",
           "format": "atom",
-          "notes": "Atom format — test Atom parsing alongside RSS"
+          "notes": "Atom format — test Atom parsing alongside RSS",
+          "postTime": 260
         },
         {
           "title": "The GitHub Blog",
           "feedUrl": "https://github.blog/feed/",
           "siteUrl": "https://github.blog/",
           "description": "Updates, ideas, and inspiration from GitHub.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 53
         },
         {
           "title": "Netlify Blog",
           "feedUrl": "https://www.netlify.com/blog/index.xml",
           "siteUrl": "https://www.netlify.com/blog/",
           "description": "News and posts from Netlify.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 317
         },
         {
           "title": "Cloudflare Blog",
@@ -237,7 +266,8 @@
           "siteUrl": "https://blog.cloudflare.com/",
           "description": "The Cloudflare Blog.",
           "format": "rss2",
-          "notes": "Rich HTML content with images and code blocks"
+          "notes": "Rich HTML content with images and code blocks",
+          "postTime": 140
         },
         {
           "title": "Vercel Blog",
@@ -245,23 +275,25 @@
           "siteUrl": "https://vercel.com/blog",
           "description": "Updates from Vercel.",
           "format": "atom",
-          "notes": "Atom format — test Atom parsing alongside RSS"
+          "notes": "Atom format — test Atom parsing alongside RSS",
+          "postTime": 79
         },
         {
           "title": "The GitHub Blog",
           "feedUrl": "https://github.blog/feed/",
           "siteUrl": "https://github.blog/",
           "description": "Updates, ideas, and inspiration from GitHub.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 80
         },
         {
           "title": "Netlify Blog",
           "feedUrl": "https://www.netlify.com/blog/index.xml",
           "siteUrl": "https://www.netlify.com/blog/",
           "description": "News and posts from Netlify.",
-          "format": "rss2"
+          "format": "rss2",
+          "postTime": 293
         }
-      
       ]
     },
     {
@@ -273,7 +305,8 @@
           "siteUrl": "https://blog.pragmaticengineer.com/",
           "description": "Observations across the software engineering industry.",
           "format": "rss2",
-          "notes": "Some items may be paywalled — feed provides excerpt only"
+          "notes": "Some items may be paywalled — feed provides excerpt only",
+          "postTime": 254
         },
         {
           "title": "Hacker News Best",
@@ -281,15 +314,17 @@
           "siteUrl": "https://news.ycombinator.com/",
           "description": "Best stories on Hacker News.",
           "format": "rss2",
-          "notes": "Very high volume — 100+ items. Good for testing pagination/virtualization. Descriptions often contain HTML."
+          "notes": "Very high volume — 100+ items. Good for testing pagination/virtualization. Descriptions often contain HTML.",
+          "postTime": 133
         },
-         {
+        {
           "title": "The Pragmatic Engineer",
           "feedUrl": "https://blog.pragmaticengineer.com/rss/",
           "siteUrl": "https://blog.pragmaticengineer.com/",
           "description": "Observations across the software engineering industry.",
           "format": "rss2",
-          "notes": "Some items may be paywalled — feed provides excerpt only"
+          "notes": "Some items may be paywalled — feed provides excerpt only",
+          "postTime": 299
         },
         {
           "title": "Hacker News Best",
@@ -297,15 +332,17 @@
           "siteUrl": "https://news.ycombinator.com/",
           "description": "Best stories on Hacker News.",
           "format": "rss2",
-          "notes": "Very high volume — 100+ items. Good for testing pagination/virtualization. Descriptions often contain HTML."
+          "notes": "Very high volume — 100+ items. Good for testing pagination/virtualization. Descriptions often contain HTML.",
+          "postTime": 21
         },
-         {
+        {
           "title": "The Pragmatic Engineer",
           "feedUrl": "https://blog.pragmaticengineer.com/rss/",
           "siteUrl": "https://blog.pragmaticengineer.com/",
           "description": "Observations across the software engineering industry.",
           "format": "rss2",
-          "notes": "Some items may be paywalled — feed provides excerpt only"
+          "notes": "Some items may be paywalled — feed provides excerpt only",
+          "postTime": 144
         },
         {
           "title": "Hacker News Best",
@@ -313,7 +350,8 @@
           "siteUrl": "https://news.ycombinator.com/",
           "description": "Best stories on Hacker News.",
           "format": "rss2",
-          "notes": "Very high volume — 100+ items. Good for testing pagination/virtualization. Descriptions often contain HTML."
+          "notes": "Very high volume — 100+ items. Good for testing pagination/virtualization. Descriptions often contain HTML.",
+          "postTime": 275
         }
       ]
     },
@@ -326,14 +364,16 @@
           "siteUrl": "https://simonwillison.net/",
           "description": "Simon Willison's weblog, covering AI, Python, and web development.",
           "format": "atom",
-          "notes": "Atom format with full HTML content. Very prolific — many items."
+          "notes": "Atom format with full HTML content. Very prolific — many items.",
+          "postTime": 217
         },
         {
           "title": "Hugging Face Blog",
           "feedUrl": "https://huggingface.co/blog/feed.xml",
           "siteUrl": "https://huggingface.co/blog",
           "description": "The latest news from Hugging Face.",
-          "format": "atom"
+          "format": "atom",
+          "postTime": 117
         },
         {
           "title": "Simon Willison's Weblog",
@@ -341,14 +381,16 @@
           "siteUrl": "https://simonwillison.net/",
           "description": "Simon Willison's weblog, covering AI, Python, and web development.",
           "format": "atom",
-          "notes": "Atom format with full HTML content. Very prolific — many items."
+          "notes": "Atom format with full HTML content. Very prolific — many items.",
+          "postTime": 148
         },
         {
           "title": "Hugging Face Blog",
           "feedUrl": "https://huggingface.co/blog/feed.xml",
           "siteUrl": "https://huggingface.co/blog",
           "description": "The latest news from Hugging Face.",
-          "format": "atom"
+          "format": "atom",
+          "postTime": 73
         },
         {
           "title": "Simon Willison's Weblog",
@@ -356,14 +398,16 @@
           "siteUrl": "https://simonwillison.net/",
           "description": "Simon Willison's weblog, covering AI, Python, and web development.",
           "format": "atom",
-          "notes": "Atom format with full HTML content. Very prolific — many items."
+          "notes": "Atom format with full HTML content. Very prolific — many items.",
+          "postTime": 280
         },
         {
           "title": "Hugging Face Blog",
           "feedUrl": "https://huggingface.co/blog/feed.xml",
           "siteUrl": "https://huggingface.co/blog",
           "description": "The latest news from Hugging Face.",
-          "format": "atom"
+          "format": "atom",
+          "postTime": 171
         },
         {
           "title": "Simon Willison's Weblog",
@@ -371,14 +415,16 @@
           "siteUrl": "https://simonwillison.net/",
           "description": "Simon Willison's weblog, covering AI, Python, and web development.",
           "format": "atom",
-          "notes": "Atom format with full HTML content. Very prolific — many items."
+          "notes": "Atom format with full HTML content. Very prolific — many items.",
+          "postTime": 155
         },
         {
           "title": "Hugging Face Blog",
           "feedUrl": "https://huggingface.co/blog/feed.xml",
           "siteUrl": "https://huggingface.co/blog",
           "description": "The latest news from Hugging Face.",
-          "format": "atom"
+          "format": "atom",
+          "postTime": 119
         }
       ]
     }
@@ -402,3 +448,4 @@
     }
   ]
 }
+
